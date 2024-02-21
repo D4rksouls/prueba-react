@@ -1,0 +1,2 @@
+Ofrece funciones de utilidad y helpers que proporcionan soluciones comunes y
+pueden ser compartidas a través de la aplicación.

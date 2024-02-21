@@ -1,0 +1,2 @@
+Incluye recursos como imágenes, fuentes y todos los archivos estáticos que se
+utilizan en toda la aplicación.

@@ -1,0 +1,2 @@
+Agrupa componentes React que encapsulan varios componentes y manejan
+lógica de estado o efectos secundarios.

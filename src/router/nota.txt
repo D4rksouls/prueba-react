@@ -1,0 +1,2 @@
+Configura las rutas de la aplicación utilizando react-router-dom, definiendo la
+navegación entre las páginas.

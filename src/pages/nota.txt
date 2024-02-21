@@ -1,0 +1,2 @@
+Contiene componentes que representan cada página o ruta en la aplicación, cada
+uno correspondiendo a una ruta definida en el sistema de enrutamiento.

@@ -1,0 +1,2 @@
+Contiene componentes React individuales que pueden ser reutilizados en
+varias partes de la aplicación.

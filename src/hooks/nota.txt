@@ -1,0 +1,6 @@
+Almacena hooks personalizados que encapsulan lógica de estado o efectos
+secundarios para ser reutilizados en los componentes
+
+
+use.....
+adentro tienen un hooks de react

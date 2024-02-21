@@ -1,0 +1,2 @@
+Incluye componentes de orden superior (HOCs) o componentes envoltorios que
+añaden funcionalidades adicionales a los componentes existentes.

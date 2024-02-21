@@ -1,0 +1,2 @@
+Maneja el estado global de la aplicación recomendando el uso de Zustand por su
+simplicidad y facilidad de manejo.

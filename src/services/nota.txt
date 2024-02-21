@@ -1,0 +1,2 @@
+Proporciona una abstracción para comunicarse con APIs externas, utilizando
+axios o fetch para realizar solicitudes HTTP
